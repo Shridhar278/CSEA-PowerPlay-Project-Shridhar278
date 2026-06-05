@@ -14,15 +14,15 @@ This repository contains the full solution submission for the CSEA IIT Guwahati 
 
 **FINAL ANSWER PREVIEW** (from personal calculations...)
 
-DataSet 1: schedule1.json : 
-Best Score: 38.362776074123964 Cr
-Simulation time: 3279.949732 seconds
+DataSet 1 | schedule1.json | 
+Best Score | 38.362776074123964 Cr
+Simulation time | 3279.949732 seconds
 <img width="1918" height="334" alt="image" src="https://github.com/user-attachments/assets/ceae5e1a-da47-400e-852c-7b2cc8cadf88" />
 
 
-DataSet 2: schedule2.json : 
-Best Score: 48.1349431800616 Cr
-Simulation time: 2923.295274 seconds
+DataSet 2 | schedule2.json | 
+Best Score | 48.1349431800616 Cr
+Simulation time | 2923.295274 seconds
 <img width="1919" height="338" alt="image" src="https://github.com/user-attachments/assets/74d8aa4a-ea73-4135-8e7e-3b1d6ff38505" />
 
 execute command: python main.py |- This runs the simulation and gives these answers
