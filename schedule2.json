@@ -1,7 +1,7 @@
 [
     {
         "day": 1,
-        "home_team": "SRH",
+        "home_team": "DC",
         "away_team": "KKR",
         "is_alternate": false
     },
@@ -14,7 +14,7 @@
     {
         "day": 3,
         "home_team": "RCB",
-        "away_team": "DC",
+        "away_team": "SRH",
         "is_alternate": false
     },
     {
@@ -26,7 +26,7 @@
     {
         "day": 5,
         "home_team": "KKR",
-        "away_team": "SRH",
+        "away_team": "DC",
         "is_alternate": false
     },
     {
@@ -37,21 +37,21 @@
     },
     {
         "day": 7,
-        "home_team": "DC",
+        "home_team": "SRH",
         "away_team": "RCB",
         "is_alternate": true
     },
     {
         "day": 8,
-        "home_team": "KKR",
+        "home_team": "DC",
         "away_team": "RR",
-        "is_alternate": false
+        "is_alternate": true
     },
     {
         "day": 9,
-        "home_team": "SRH",
+        "home_team": "KKR",
         "away_team": "PBKS",
-        "is_alternate": true
+        "is_alternate": false
     },
     {
         "day": 10,
@@ -62,20 +62,20 @@
     {
         "day": 11,
         "home_team": "CSK",
-        "away_team": "DC",
+        "away_team": "SRH",
         "is_alternate": false
     },
     {
         "day": 12,
-        "home_team": "KKR",
+        "home_team": "DC",
         "away_team": "PBKS",
-        "is_alternate": false
+        "is_alternate": true
     },
     {
         "day": 13,
-        "home_team": "SRH",
+        "home_team": "KKR",
         "away_team": "RR",
-        "is_alternate": true
+        "is_alternate": false
     },
     {
         "day": 14,
@@ -85,26 +85,26 @@
     },
     {
         "day": 15,
-        "home_team": "DC",
+        "home_team": "SRH",
         "away_team": "CSK",
         "is_alternate": true
     },
     {
         "day": 16,
         "home_team": "PBKS",
-        "away_team": "KKR",
+        "away_team": "DC",
         "is_alternate": true
     },
     {
         "day": 17,
         "home_team": "RR",
-        "away_team": "SRH",
+        "away_team": "KKR",
         "is_alternate": true
     },
     {
         "day": 18,
         "home_team": "MI",
-        "away_team": "DC",
+        "away_team": "SRH",
         "is_alternate": false
     },
     {
@@ -116,18 +116,18 @@
     {
         "day": 20,
         "home_team": "RR",
-        "away_team": "KKR",
+        "away_team": "DC",
         "is_alternate": false
     },
     {
         "day": 21,
         "home_team": "PBKS",
-        "away_team": "SRH",
+        "away_team": "KKR",
         "is_alternate": true
     },
     {
         "day": 22,
-        "home_team": "DC",
+        "home_team": "SRH",
         "away_team": "MI",
         "is_alternate": false
     },
@@ -145,14 +145,14 @@
     },
     {
         "day": 25,
-        "home_team": "DC",
-        "away_team": "SRH",
+        "home_team": "KKR",
+        "away_team": "MI",
         "is_alternate": false
     },
     {
         "day": 26,
-        "home_team": "KKR",
-        "away_team": "MI",
+        "home_team": "DC",
+        "away_team": "SRH",
         "is_alternate": false
     },
     {
@@ -169,20 +169,20 @@
     },
     {
         "day": 29,
-        "home_team": "SRH",
-        "away_team": "DC",
+        "home_team": "DC",
+        "away_team": "MI",
         "is_alternate": false
     },
     {
         "day": 30,
-        "home_team": "CSK",
-        "away_team": "KKR",
+        "home_team": "KKR",
+        "away_team": "SRH",
         "is_alternate": false
     },
     {
         "day": 31,
-        "home_team": "MI",
-        "away_team": "RR",
+        "home_team": "RR",
+        "away_team": "CSK",
         "is_alternate": false
     },
     {
@@ -193,146 +193,146 @@
     },
     {
         "day": 33,
-        "home_team": "CSK",
-        "away_team": "SRH",
+        "home_team": "MI",
+        "away_team": "DC",
         "is_alternate": false
     },
     {
         "day": 34,
-        "home_team": "DC",
+        "home_team": "SRH",
         "away_team": "KKR",
         "is_alternate": false
     },
     {
         "day": 35,
-        "home_team": "RR",
-        "away_team": "MI",
-        "is_alternate": false
-    },
-    {
-        "day": 36,
         "home_team": "CSK",
         "away_team": "PBKS",
         "is_alternate": false
     },
     {
-        "day": 37,
+        "day": 36,
         "home_team": "RCB",
-        "away_team": "SRH",
+        "away_team": "RR",
+        "is_alternate": false
+    },
+    {
+        "day": 37,
+        "home_team": "MI",
+        "away_team": "KKR",
         "is_alternate": false
     },
     {
         "day": 38,
-        "home_team": "KKR",
+        "home_team": "SRH",
         "away_team": "DC",
         "is_alternate": false
     },
     {
         "day": 39,
-        "home_team": "MI",
-        "away_team": "PBKS",
+        "home_team": "PBKS",
+        "away_team": "CSK",
         "is_alternate": false
     },
     {
         "day": 40,
         "home_team": "RR",
-        "away_team": "CSK",
-        "is_alternate": false
-    },
-    {
-        "day": 41,
-        "home_team": "SRH",
         "away_team": "RCB",
         "is_alternate": false
     },
     {
-        "day": 42,
+        "day": 41,
         "home_team": "MI",
-        "away_team": "KKR",
+        "away_team": "PBKS",
+        "is_alternate": false
+    },
+    {
+        "day": 42,
+        "home_team": "CSK",
+        "away_team": "DC",
         "is_alternate": false
     },
     {
         "day": 43,
-        "home_team": "DC",
-        "away_team": "PBKS",
+        "home_team": "SRH",
+        "away_team": "RR",
         "is_alternate": false
     },
     {
         "day": 44,
         "home_team": "RCB",
-        "away_team": "RR",
+        "away_team": "KKR",
         "is_alternate": false
     },
     {
         "day": 45,
-        "home_team": "SRH",
-        "away_team": "CSK",
-        "is_alternate": false
-    },
-    {
-        "day": 46,
         "home_team": "PBKS",
         "away_team": "MI",
         "is_alternate": false
     },
     {
-        "day": 47,
+        "day": 46,
         "home_team": "DC",
-        "away_team": "RR",
+        "away_team": "CSK",
+        "is_alternate": false
+    },
+    {
+        "day": 47,
+        "home_team": "RR",
+        "away_team": "SRH",
         "is_alternate": false
     },
     {
         "day": 48,
-        "home_team": "RCB",
-        "away_team": "KKR",
+        "home_team": "KKR",
+        "away_team": "RCB",
         "is_alternate": false
     },
     {
         "day": 49,
-        "home_team": "MI",
-        "away_team": "SRH",
+        "home_team": "RR",
+        "away_team": "MI",
         "is_alternate": false
     },
     {
         "day": 50,
         "home_team": "PBKS",
-        "away_team": "CSK",
+        "away_team": "SRH",
         "is_alternate": false
     },
     {
         "day": 51,
-        "home_team": "KKR",
+        "home_team": "DC",
         "away_team": "RCB",
         "is_alternate": false
     },
     {
         "day": 52,
-        "home_team": "RR",
-        "away_team": "DC",
-        "is_alternate": false
-    },
-    {
-        "day": 53,
-        "home_team": "SRH",
-        "away_team": "MI",
-        "is_alternate": false
-    },
-    {
-        "day": 54,
         "home_team": "KKR",
         "away_team": "CSK",
         "is_alternate": false
     },
     {
+        "day": 53,
+        "home_team": "MI",
+        "away_team": "RR",
+        "is_alternate": false
+    },
+    {
+        "day": 54,
+        "home_team": "SRH",
+        "away_team": "PBKS",
+        "is_alternate": false
+    },
+    {
         "day": 55,
-        "home_team": "PBKS",
+        "home_team": "RCB",
         "away_team": "DC",
         "is_alternate": false
     },
     {
         "day": 56,
-        "home_team": "RR",
-        "away_team": "RCB",
+        "home_team": "CSK",
+        "away_team": "KKR",
         "is_alternate": false
     }
 ]

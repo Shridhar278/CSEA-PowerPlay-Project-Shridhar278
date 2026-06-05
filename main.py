@@ -15,10 +15,10 @@ from processor import process
 CASES = {1:"inst_1", 2:"inst_2"}
 
 # testcase change here
-CASE=2
+CASE=1
 
 # total DFS searches: processv1 = (8c2*2)*LIMIT
-LIMIT=100000
+LIMIT=50000
 
 # helpers
 def map_blackouts(blackouts):

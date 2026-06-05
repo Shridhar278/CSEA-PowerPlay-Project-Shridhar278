@@ -277,20 +277,20 @@
     },
     {
         "day": 47,
-        "home_team": "RCB",
-        "away_team": "SRH",
-        "is_alternate": false
-    },
-    {
-        "day": 48,
         "home_team": "KKR",
         "away_team": "RR",
         "is_alternate": false
     },
     {
+        "day": 48,
+        "home_team": "RCB",
+        "away_team": "SRH",
+        "is_alternate": false
+    },
+    {
         "day": 49,
-        "home_team": "MI",
-        "away_team": "DC",
+        "home_team": "DC",
+        "away_team": "MI",
         "is_alternate": false
     },
     {
@@ -301,20 +301,20 @@
     },
     {
         "day": 51,
-        "home_team": "SRH",
-        "away_team": "RCB",
-        "is_alternate": false
-    },
-    {
-        "day": 52,
         "home_team": "RR",
         "away_team": "KKR",
         "is_alternate": false
     },
     {
+        "day": 52,
+        "home_team": "SRH",
+        "away_team": "RCB",
+        "is_alternate": false
+    },
+    {
         "day": 53,
-        "home_team": "DC",
-        "away_team": "MI",
+        "home_team": "MI",
+        "away_team": "DC",
         "is_alternate": false
     },
     {
