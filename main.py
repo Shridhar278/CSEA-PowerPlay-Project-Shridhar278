@@ -60,7 +60,7 @@ def convert_schedule(schedule, alternate):
             "day": i+1,
             "home_team": match[0],
             "away_team": match[1],
-            "is_alternate": alternate[i]
+            "is_alt_venue": alternate[i]
         })
     return solution
 
