@@ -1,0 +1,19 @@
+First Prototype:
+parameter = # no. of searches with ("A", "B")
+format ("A", "B") -> home-team A, away-team B
+HARD CODED DFS DOUBLE-ROUND-ROBIN SEARCH
+IGNORE ALTERNATE VENUE
+CHECK BLACKOUTS
+CHECK MAX. 4 DIFFERENCE RULE
+CALC. SCORE via MATH MODELS
+pick the best score
+
+# main goals
+
+1. Fix algo to obtain LOW MATCH DENSITY
+2. provide FORWARD pruning HEAVY + BACKWARD optimization 
+   for less time MORE computation
+
+# final solution
+
+ADD gap_since_last_match PRIORITY to EXTREMELY LESSEN the gap_since_last_match penalty
