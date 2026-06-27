@@ -4,7 +4,7 @@
 
 ---
 
-(This is a bit rushed (AI) due to approaching deadline)
+(This(Readme.md) is a bit rushed (AI) due to approaching deadline)
 
 ## Overview
 
